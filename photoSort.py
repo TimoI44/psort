@@ -66,7 +66,7 @@ def handleDuplicateNames(targetPath, newName):
 
 
 #Handles the sorting logic for one file
-# @rootDirPath: target folder
+# @unsortedDir: root folder of the file
 def handleFile(unsortedDir, filePath):
     
     #Validation -------------------/
